@@ -1,0 +1,17 @@
+{
+  "overview": {
+    "title": "Overview"
+  },
+  "proposing": {
+    "title": "Proposing Delite blocks"
+  },
+  "proving": {
+    "title": "Proving Delite blocks"
+  },
+  "bridging": {
+    "title": "Bridging"
+  },
+  "delite-nodes": {
+    "title": "Delite nodes"
+  }
+}
