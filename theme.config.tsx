@@ -13,11 +13,11 @@ export default {
     ),
   },
   chat: {
-    link: "https://discord.gg/delitesystems",
+    link: "https://discord.gg",
   },
   darkMode: true,
   docsRepositoryBase:
-    "https://github.com/delitesystems/delite-mono/blob/main/packages/website",
+    "https://github.com",
   editLink: {
     text: "Edit this page ↗",
   },
@@ -32,13 +32,13 @@ export default {
     const { frontMatter } = useConfig();
     return (
       <>
-        <meta property="og:url" content={`https://delite.builders${asPath}`} />
+        <meta property="og:url" content={`http://exp.delite.builders${asPath}`} />
         <meta property="og:title" content={frontMatter.title || "Delite"} />
         <meta
           property="og:description"
           content={
             frontMatter.description ||
-            "A decentralized, Ethereum-equivalent ZK-Rollup."
+            "Innovative ZkEvm Blockchain for Billion Users."
           }
         />
         <meta
@@ -55,7 +55,7 @@ export default {
   },
   primaryHue: 323,
   project: {
-    link: "https://github.com/delitesystems",
+    link: "https://github.com/",
   },
   useNextSeoProps() {
     return {
