@@ -6,13 +6,13 @@ import {
 
 const features = [
   {
-    name: "Ethereum-equivalent",
+    name: "EVM Compatible",
     description:
-      "A Type 1 (Ethereum-equivalent) ZK-EVM aims for maximum compatibility. This results in a seamless developer experience.",
+      "Innovative ZK-EVM aims for maximum EVM compatibility. This provides a seamless developer experience.",
     icon: ArrowPathIcon,
   },
   {
-    name: "Open source",
+    name: "Community Driven",
     description:
       "Delite's code is open source and available on GitHub. Free to use and modify the source code with the permissive license.",
     icon: ScaleIcon,
