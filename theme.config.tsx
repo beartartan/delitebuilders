@@ -7,8 +7,8 @@ export default {
   banner: {
     key: "banner",
     text: (
-      <a href="/docs/guides" target="_blank">
-        📌 Alpha-3 is here! Get started →
+      <a href="#" target="_blank">
+        📌 Delite-Beta is here! Get started →
       </a>
     ),
   },
@@ -32,7 +32,7 @@ export default {
     const { frontMatter } = useConfig();
     return (
       <>
-        <meta property="og:url" content={`https://delite.xyz${asPath}`} />
+        <meta property="og:url" content={`https://delite.builders${asPath}`} />
         <meta property="og:title" content={frontMatter.title || "Delite"} />
         <meta
           property="og:description"
