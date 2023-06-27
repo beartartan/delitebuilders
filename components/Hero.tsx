@@ -52,7 +52,7 @@ export default function Hero() {
                 <div className="inline-flex rounded-md shadow">
                   <a
                     // href="/docs/guides"
-                    href="/#"
+                    href="http://exp.delite.builders"
                     className="inline-flex items-center rounded-md border border-transparent bg-[#e88a18] px-5 py-3 text-base font-semibold text-white dark:text-neutral-100 hover:bg-[#d1168a] hover:no-underline hover:text-white"
                   >
                     Get started →

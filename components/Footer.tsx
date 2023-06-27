@@ -10,7 +10,7 @@ export default function Footer() {
             <ul className="text-neutral-500 dark:text-neutral-400">
               <li className="mb-4">
                 <a
-                  href="https://mirror.xyz/labs.delite.eth"
+                  href="https://delite.builders"
                   className="hover:underline"
                   target={"_blank"}
                 >
@@ -19,7 +19,7 @@ export default function Footer() {
               </li>
               <li className="mb-4">
                 <a
-                  href="https://www.notion.so/delitesystems/Delite-Jobs-828fd7232d2c4150a11e10c8baa910a2"
+                  href="https://delite.builders"
                   className="hover:underline"
                   target={"_blank"}
                 >
@@ -28,7 +28,7 @@ export default function Footer() {
               </li>
               <li className="mb-4">
                 <a
-                  href="https://github.com/delitesystems/delite-mono/tree/main/packages/branding/"
+                  href="https://delite.builders"
                   className="hover:underline"
                   target={"_blank"}
                 >
@@ -43,13 +43,13 @@ export default function Footer() {
             </h2>
             <ul className="text-neutral-500 dark:text-neutral-400">
               <li className="mb-4">
-                <a href="/docs" className="hover:underline">
+                <a href="http://exp.delite.builders" className="hover:underline">
                   Get started
                 </a>
               </li>
               <li className="mb-4">
                 <a
-                  href="https://github.com/delitesystems"
+                  href="https://github.com/"
                   className="hover:underline"
                   target={"_blank"}
                 >
@@ -58,7 +58,7 @@ export default function Footer() {
               </li>
               <li className="mb-4">
                 <a
-                  href="https://delitesystems.github.io/delite-mono/delite-whitepaper.pdf"
+                  href="https://delite.builders"
                   className="hover:underline"
                   target={"_blank"}
                 >
@@ -74,7 +74,7 @@ export default function Footer() {
             <ul className="text-neutral-500 dark:text-neutral-400">
               <li className="mb-4">
                 <a
-                  href="https://discord.gg/delitesystems"
+                  href="https://discord.gg/"
                   className="hover:underline"
                   target={"_blank"}
                 >
@@ -83,7 +83,7 @@ export default function Footer() {
               </li>
               <li className="mb-4">
                 <a
-                  href="https://twitter.com/delitesystems"
+                  href="https://twitter.com/"
                   className="hover:underline"
                   target={"_blank"}
                 >
@@ -92,7 +92,7 @@ export default function Footer() {
               </li>
               <li className="mb-4">
                 <a
-                  href="https://www.youtube.com/@delitesystems"
+                  href="https://www.youtube.com"
                   className="hover:underline"
                   target={"_blank"}
                 >
