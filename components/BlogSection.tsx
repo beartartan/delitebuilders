@@ -55,17 +55,17 @@ export default function BlogSection() {
       <div className="relative mx-auto max-w-7xl">
         <div className="text-center">
           <h2 className="font-grotesk text-3xl tracking-tight text-neutral-900 sm:text-4xl dark:text-neutral-100">
-            Latest blog posts
+            {/* Latest blog posts */}
           </h2>
           <div className="mx-auto mt-3 max-w-2xl text-xl text-neutral-500 sm:mt-4 dark:text-neutral-300">
-            Check out the full blog at{" "}
+            {/* Check out the full blog at{" "} */}
             <a
               className="underline"
-              href="https://delite.mirror.xyz"
+              href="https://delite.builders"
               target="_blank"
               rel="noopener noreferrer"
             >
-              delite.mirror.xyz
+              {/* Delite Blogs */}
             </a>
           </div>
         </div>
