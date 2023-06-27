@@ -1,5 +1,5 @@
 const posts = [
-  {
+  /* {
     title: "Delite Alpha-3 Testnet is Live",
     href: "https://delite.mirror.xyz/wD7yN8Y5RttbP7kzdtX22GbMg6i18a-Xwet2sshpt48",
     description:
@@ -43,7 +43,7 @@ const posts = [
       name: "Lisa A.",
       imageUrl: "https://avatars.githubusercontent.com/u/106527861?v=4",
     },
-  },
+  }, */
 ];
 
 export default function BlogSection() {
